@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bgk"
+version = "0.1.0"
+description = "Thesis BGK Solver"
+# Do NOT put 'packages' here
+
+[tool.setuptools]
+packages = ["bgk"]

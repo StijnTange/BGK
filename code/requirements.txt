@@ -1,0 +1,9 @@
+matplotlib
+numba
+numpy
+pytest
+rich
+scipy
+tqdm
+xarray
+ruff
